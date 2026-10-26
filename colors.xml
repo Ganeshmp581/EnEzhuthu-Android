@@ -1,0 +1,9 @@
+<resources>
+    <color name="deep_navy">#0B132B</color>
+    <color name="midnight_navy">#1C2541</color>
+    <color name="surface_navy">#232F4D</color>
+    <color name="accent_gold">#E5A93C</color>
+    <color name="accent_gold_light">#F6C90E</color>
+    <color name="text_white">#F1F5F9</color>
+    <color name="text_muted">#94A3B8</color>
+</resources>

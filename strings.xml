@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">என்எழுத்து</string>
+    <string name="app_tagline">தமிழ் &amp; ஆங்கில இலக்கிய களம்</string>
+    
+    <string name="nav_home">முகப்பு</string>
+    <string name="nav_explore">தேடல்</string>
+    <string name="nav_write">எழுது</string>
+    <string name="nav_notifications">அறிவிப்புகள்</string>
+    <string name="nav_profile">சுயவிவரம்</string>
+    
+    <string name="category_all">அனைத்தும்</string>
+    <string name="category_poetry">கவிதை</string>
+    <string name="category_love">காதல்</string>
+    <string name="category_stories">கதைகள்</string>
+    <string name="category_politics">அரசியல்</string>
+    <string name="category_society">சமூகம்</string>
+    <string name="category_motivation">ஊக்கம்</string>
+    <string name="category_thoughts">சுயசிந்தனை</string>
+    <string name="category_articles">கட்டுரைகள்</string>
+    <string name="category_other">பிற</string>
+
+    <string name="action_publish">வெளியிடு</string>
+    <string name="action_save_draft">வரைவாக சேமி</string>
+    <string name="action_like">விருப்பம்</string>
+    <string name="action_comment">கருத்திடு</string>
+    <string name="action_share">பகிர்</string>
+    <string name="action_follow">பின்தொடர்</string>
+    <string name="action_following">பின்தொடர்கிறீர்கள்</string>
+    <string name="action_report">புகார் செய்</string>
+    <string name="action_edit">திருத்து</string>
+    <string name="action_delete">நீக்கு</string>
+    <string name="action_sign_in">உள்நுழை</string>
+    <string name="action_sign_out">வெளியேறு</string>
+
+    <string name="search_placeholder">தலைப்பு, வரிகள் அல்லது எழுத்தாளரை தேடுங்கள்…</string>
+    <string name="write_title_placeholder">கவர்ச்சிகரமான தலைப்பை உள்ளிடுக…</string>
+    <string name="write_body_placeholder">உங்கள் இதயத்திலிருந்து எழுதுங்கள்… தமிழ் அல்லது ஆங்கிலத்தில்…</string>
+    <string name="comments_title">வாசகர் கருத்துக்கள்</string>
+</resources>
